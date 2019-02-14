@@ -1,3 +1,5 @@
 sudo apt install -y nodejs
 sudo apt install -y npm
-npm start
+git clone https://github.com/Urmade/AzureVMDemoMiddleware.git
+cd AzureVMDemoMiddleware/
+sudo npm start
